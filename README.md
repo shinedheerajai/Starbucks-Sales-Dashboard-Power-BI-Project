@@ -41,3 +41,4 @@ Power BI	Data visualization & dashboard
 Power Query	Data transformation & shaping
 DAX	Custom measures & calculations
 Excel / CSV	Initial raw data format.
+<img width="648" height="338" alt="image" src="https://github.com/user-attachments/assets/f4a42ce7-db58-47c8-8b97-b7d5695ecb72" />
