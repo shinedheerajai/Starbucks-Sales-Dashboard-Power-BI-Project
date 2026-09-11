@@ -42,3 +42,4 @@ Power Query	Data transformation & shaping
 DAX	Custom measures & calculations
 Excel / CSV	Initial raw data format.
 <img width="648" height="338" alt="image" src="https://github.com/user-attachments/assets/f4a42ce7-db58-47c8-8b97-b7d5695ecb72" />
+<img width="555" height="286" alt="image" src="https://github.com/user-attachments/assets/610aa4d5-ceeb-46de-9c32-8fce6fcc2a09" />
